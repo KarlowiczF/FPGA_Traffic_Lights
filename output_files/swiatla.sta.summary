@@ -1,0 +1,185 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'MAX10_CLK1_50'
+Slack : -3.204
+TNS   : -89.844
+
+Type  : Slow 1200mV 85C Model Setup 'licznikmod16:inst|inst1'
+Slack : -0.355
+TNS   : -0.355
+
+Type  : Slow 1200mV 85C Model Setup 'MultiPrescaler:inst2|clk_1Hz'
+Slack : -0.340
+TNS   : -0.340
+
+Type  : Slow 1200mV 85C Model Setup 'licznikmod16:inst|inst'
+Slack : -0.241
+TNS   : -0.241
+
+Type  : Slow 1200mV 85C Model Setup 'licznikmod16:inst|inst2'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'licznikmod16:inst|inst2'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'licznikmod16:inst|inst1'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'licznikmod16:inst|inst'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MultiPrescaler:inst2|clk_1Hz'
+Slack : 0.517
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MAX10_CLK1_50'
+Slack : 0.621
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -43.687
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MultiPrescaler:inst2|clk_1Hz'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'licznikmod16:inst|inst'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'licznikmod16:inst|inst1'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'licznikmod16:inst|inst2'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -2.861
+TNS   : -80.175
+
+Type  : Slow 1200mV 0C Model Setup 'licznikmod16:inst|inst1'
+Slack : -0.308
+TNS   : -0.308
+
+Type  : Slow 1200mV 0C Model Setup 'MultiPrescaler:inst2|clk_1Hz'
+Slack : -0.271
+TNS   : -0.271
+
+Type  : Slow 1200mV 0C Model Setup 'licznikmod16:inst|inst'
+Slack : -0.198
+TNS   : -0.198
+
+Type  : Slow 1200mV 0C Model Setup 'licznikmod16:inst|inst2'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'licznikmod16:inst|inst2'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'licznikmod16:inst|inst1'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'licznikmod16:inst|inst'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MultiPrescaler:inst2|clk_1Hz'
+Slack : 0.476
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -43.687
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MultiPrescaler:inst2|clk_1Hz'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'licznikmod16:inst|inst'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'licznikmod16:inst|inst1'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'licznikmod16:inst|inst2'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Fast 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -0.703
+TNS   : -19.279
+
+Type  : Fast 1200mV 0C Model Setup 'MultiPrescaler:inst2|clk_1Hz'
+Slack : 0.211
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'licznikmod16:inst|inst1'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'licznikmod16:inst|inst'
+Slack : 0.286
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'licznikmod16:inst|inst2'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'licznikmod16:inst|inst'
+Slack : 0.078
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'licznikmod16:inst|inst1'
+Slack : 0.110
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MultiPrescaler:inst2|clk_1Hz'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'licznikmod16:inst|inst2'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.239
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -33.280
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MultiPrescaler:inst2|clk_1Hz'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'licznikmod16:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'licznikmod16:inst|inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'licznikmod16:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
